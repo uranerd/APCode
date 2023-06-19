@@ -14,3 +14,5 @@ Feel free to look at the files code and comments to understand it further, and t
 # What will the experiment do?
 The goal of this experiment is to use the captured images from the ISS to create a Minecraft world that, based on height maps and the color of each pixel from our image,
 will look like the Earth. (atleast in the parts of the world we captured from the ISS)
+# Will this be maintained?
+No
